@@ -11,7 +11,7 @@ The focus is on **data modeling, DAX measures, and decision-driven visualization
 ![Sales Dashboard](dashboard.png)
 
 ### 🔹 Discount & Influencer Analysis
-![Discount Analysis Dashboard](discount analytics.png)
+![Discount Analysis Dashboard](discount_analytics.png)
 
 ---
 
