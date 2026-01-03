@@ -55,12 +55,6 @@ The focus is on **data modeling, DAX measures, and decision-driven visualization
 - Power BI (.pbix) file  
 - Dataset  
 - Screenshots of dashboards  
-- Video demo (MP4)
-
----
-
-## 🎥 Video Demonstration
-A complete walkthrough of dashboard interactivity and insights is included as an MP4 file in this repository.
 
 ---
 
